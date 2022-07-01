@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 추후에 꾸며보도록 하겠습니다.
 
 <!--
 **miffDONG/miffDONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
