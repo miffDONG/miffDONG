@@ -1,6 +1,7 @@
 ### Hi there 👋 추후에 꾸며보도록 하겠습니다.
 
-현재까지의 활동을 담은 repo root : https://github.com/miffDONG/code_learning_in_Uni/tree/main/%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99
+현재까지의 활동을 담은 [repo root](https://github.com/miffDONG/code_learning_in_Uni/tree/main/%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99
+) 입니다. 
 
 <!--
 **miffDONG/miffDONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
