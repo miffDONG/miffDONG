@@ -3,7 +3,9 @@
 [프로젝트 메모리](https://github.com/miffDONG/code_learning_in_Uni/tree/main/%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99
 )입니다. 
 
-NLP, CV, 데이터 분석 등 다양한 데이터를 다뤄보았으며 꾸준히 경진대회에 참여하고 있습니다.
+경험 분야 : NLP, CV, 데이터 분석
+
+꾸준히 활동에 참여하며 역량을 키우기 위해 노력하고 있습니다.
 
 <!--
 **miffDONG/miffDONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
