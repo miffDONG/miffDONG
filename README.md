@@ -1,4 +1,4 @@
-### Hi there 👋 추후에 꾸며보도록 하겠습니다.
+### Hi there 👋 미래의 프로그래머 MIFF 입니다.
 
 [프로젝트 메모리](https://github.com/miffDONG/code_learning_in_Uni/tree/main/%EB%8C%80%EC%99%B8%ED%99%9C%EB%8F%99
 )입니다. 
